@@ -1,0 +1,10 @@
+#folders
+node_modules/
+.next/
+#files
+
+.env.local
+.DS_Store
+npm-debug.log 
+.env
+package-lock.json
